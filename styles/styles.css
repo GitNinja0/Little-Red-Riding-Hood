@@ -1,5 +1,5 @@
 body{
-    background-color: beige;
+    background-color: greenyellow;
 }
 h1{
     text-align: center;
@@ -11,4 +11,8 @@ h2{
 p{
     margin-left: 20px;
     line-height: 30px;
+}
+img{
+    height: 30rem;
+    width: 30rem;
 }

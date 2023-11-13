@@ -4,9 +4,11 @@ body{
 h1{
     text-align: center;
     text-decoration-line: underline;
+    font-size: 3rem;
 }
 h2{
     margin: 20px;
+    text-align: center;
 }
 p{
     margin-left: 20px;
@@ -16,3 +18,4 @@ img{
     height: 30rem;
     width: 30rem;
 }
+
